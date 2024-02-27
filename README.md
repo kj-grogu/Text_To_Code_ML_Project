@@ -1,6 +1,3 @@
-https://www.kaggle.com/code/rhtsingh/text-to-code-generation-with-tensorflow-mbpp
-
-
 # Create the virtual env
 python -m venv .env
 
